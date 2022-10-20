@@ -7,7 +7,7 @@ public class BetulsCheerFullCode {
         String perfectClass = "Group 20 is the best one in EU9";
 
         System.out.println("The truth is: " + perfectClass);
-        System.out.println("gnsg");
+        System.out.println("lets");
 
     }
 
